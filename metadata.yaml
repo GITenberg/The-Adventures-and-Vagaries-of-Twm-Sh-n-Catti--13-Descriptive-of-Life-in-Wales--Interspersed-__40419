@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40612'
     url: http://www.gutenberg.org/2009/agents/40612
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40419#The-Adventures-and-Vagaries-of-Twm-Sh-n-Catti--13-Descriptive-of-Life-in-Wales--Interspersed-_
 gutenberg_issued: '2012-08-05'
 gutenberg_type: Text
 identifiers:
