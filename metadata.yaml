@@ -1,0 +1,28 @@
+_repo: The-Adventures-and-Vagaries-of-Twm-Sh-n-Catti--13-Descriptive-of-Life-in-Wales--Interspersed-__40419
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prichard, T. J. Llewelyn (Thomas Jeffery Llewelyn)
+    alias: Prichard, Thomas Jeffery Llewelyn
+    birthdate: 1790
+    deathdate: 1862
+    gutenberg_agent_id: '40612'
+    url: http://www.gutenberg.org/2009/agents/40612
+description: ''
+gutenberg_issued: '2012-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jones, Thomas, approximately 1530-approximately 1620 -- Fiction'
+- !lcc 'PR'
+title: "The Adventures and Vagaries of Twm Shôn Catti\r\nDescriptive of Life in Wales:\
+  \ Interspersed with Poems"
+url: http://www.gutenberg.org/ebooks/40419
